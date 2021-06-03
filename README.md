@@ -110,7 +110,7 @@ STEPS FOR TRAINING MODEL
 2. Training accuracy/loss curves demonstrate → high accuracy and little signs of overfitting on the data.
 3. Obtained ~99% accuracy on our test set.
 4. Looking at Figure , we can see there are little signs of overfitting, with the validation loss lower than the training loss.
-5 - Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
+5. Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
 
 SUMMARY/RESULT
 ---------------

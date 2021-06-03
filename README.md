@@ -33,8 +33,8 @@ Motivation  ??
 
 Installation / Tech Used
 ------------------------------
-Dataset : Real World Masked Face Dataset (RMFD)
-AI/DL Techniques/Libaries : OpenCV, Keras/TensorFlow, MobileNetV2
+* Dataset : Real World Masked Face Dataset (RMFD)
+* AI/DL Techniques/Libaries : OpenCV, Keras/TensorFlow, MobileNetV2
 
 Features
 ---------
